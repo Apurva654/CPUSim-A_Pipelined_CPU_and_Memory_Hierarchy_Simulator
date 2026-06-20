@@ -108,5 +108,5 @@ The program firstly prints the cycle-by-cycle details and then ends by printing:
 
 CPUSim demonstrates how CPU scheduling and memory hierarchy work together. It shows how tasks are switched using Round Robin scheduling and how memory requests are handled through L1, L2, L3 cache, and RAM.
 
-------------------------------------------THANK YOU!---------------------------------------
--------------------------------------------(★‿★)-----------------------------------------
+#                                                THANK YOU!
+ #                                                (★‿★)
