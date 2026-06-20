@@ -1,4 +1,4 @@
-# CPUSim - Pipelined CPU and Memory Hierarchy Simulator💻n
+# CPUSim - Pipelined CPU and Memory Hierarchy Simulator💻
 
 ## Overview
  This program simulates how tasks get allocated to a CPU and how memory blocks move through a cache hierarchy.
